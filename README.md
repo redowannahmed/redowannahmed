@@ -5,6 +5,6 @@
 
 `TypeScript` • `FastAPI` • `React.js`• `Next.js` • `PostgreSQL` • `Java` • `Python` • `Docker`
  
-[LinkedIn](https://linkedin.com/in/redowan-ahmed) &nbsp;|&nbsp; [Email](mailto:foridradowan@iut-dhaka.edu) &nbsp;|&nbsp; [Portfolio](#)
+[LinkedIn](https://linkedin.com/in/redowan-ahmed) &nbsp;|&nbsp; [Email](mailto:foridradowan@iut-dhaka.edu) &nbsp;
 
 ---
