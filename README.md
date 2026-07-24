@@ -3,8 +3,8 @@
 # Hi, I'm Redowan
 **Software Engineer & Student @ IUT**
 
-`Java` • `Python` • `TypeScript` • `FastAPI` • `Next.js` • `PostgreSQL` • `Docker`
-
+`TypeScript` • `FastAPI` • `React.js`• `Next.js` • `PostgreSQL` • `Java` • `Python` • `Docker`
+ 
 [LinkedIn](https://linkedin.com/in/redowan-ahmed) &nbsp;|&nbsp; [Email](mailto:foridradowan@iut-dhaka.edu) &nbsp;|&nbsp; [Portfolio](#)
 
 ---
